@@ -34,3 +34,4 @@ backup_disk () {
 
 echo "Backing up into $(backup_filename) ..."
 $(backup_disk)
+
